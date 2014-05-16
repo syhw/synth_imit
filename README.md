@@ -8,3 +8,9 @@ voices using `say` (Speech Synthesis Manager).
 
 It's Friday afternoon > 5pm, I have rights to be silly! That could actually be
 useful...
+
+OK, OK: How to?
+---------------
+
+    bash voice_it.sh
+
